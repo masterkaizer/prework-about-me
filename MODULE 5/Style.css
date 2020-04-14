@@ -1,0 +1,55 @@
+<head>>
+  <style>
+  
+  body {
+    background-color: white;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  h2 {
+    text-align: left;
+    font-size: medium;
+  }
+p.redFont1 {
+    font-size: small;
+    color: red;
+    }
+p.blueFont2 {
+    font-size: small;
+    color: blue;
+    }
+p.greenFont3{
+    font-size: small;
+    color: green;
+        }
+p.bigFont{
+    font-size: x-large;
+        }
+p.tinyFont{
+            font-size: x-small;
+                }
+p.centerFont{
+    text-align: center;
+                        }
+p.boldFont{
+    font-weight: bold;
+    font-size: smaller;
+}
+
+p.orFont{
+    font-size: x-large; 
+      font-weight: bold;
+      color: orange;
+}
+ p.styledFont {
+color: green;
+}
+      img {
+        width:400px;
+        border:8px solid orange;
+        }
+
+  </style>
+</head>
